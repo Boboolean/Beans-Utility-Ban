@@ -35,3 +35,10 @@ Disables conduits and fireworks from being placed in Beans Backpacks utility slo
     versionRange="[1.21.1]"
     ordering="NONE"
     side="BOTH"
+[[dependencies.beansutilityban]]
+    modId="neoforge"
+    type="required"
+    reason="..."
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"
